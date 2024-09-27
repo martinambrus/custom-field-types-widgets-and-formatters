@@ -1,6 +1,7 @@
 {
   "name": "martinambrus/custom-field-types-widgets-and-formatters",
   "description": "Custom field types, widgets, and formattersP",
+  "version": "1.0.1"
   "homepage": "http://www.sujanshrestha.net",
   "license": "LGPL-3.0",
   "keywords": [
